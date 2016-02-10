@@ -1,0 +1,1 @@
+# NSImage-replace-color
